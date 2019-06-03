@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Milestone_3
+    // written by Tessa Biava for CST-117
 {
     class InventoryItem
     {
